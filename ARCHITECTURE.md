@@ -1,4 +1,4 @@
-# 🏛️ Documentación de Arquitectura — Bloom (LambdaCode)
+# Documentación de Arquitectura — Bloom (LambdaCode)
 
 Este documento describe la arquitectura interna, el modelo de datos, la gestión de estado reactivo y los patrones de diseño implementados en la aplicación **Bloom**.
 
